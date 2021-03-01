@@ -44,13 +44,14 @@ $ Contents
 |   ├── W-R Problem
 |   ├── W-W Problem
 └── Normalization
-    ├── Defination
-    ├── Closure Method
-    ├── Functional Dependency
-    ├── 1NF
-    ├── 2NF
-    ├── 3NF
-    ├── BCNF
+    ├── DDL
+    ├── DML
+    ├── DCL
+    ├── TCL
+    ├── Constraints
+    ├── Aggregate fuctions 
+    ├── Joins
+    └── Nested Queries
 
 ```
  
